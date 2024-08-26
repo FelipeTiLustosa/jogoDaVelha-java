@@ -1,4 +1,4 @@
-# Jogo da velha inteligenti 100% em java
+# Jogo da velha inteligenti, 100% em java
 
 ## imagem do jogo :
 
