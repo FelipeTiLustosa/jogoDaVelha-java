@@ -1,4 +1,4 @@
-# Jogo da Velha Inteligente
+# Jogo da Velha Inteligente em JAVA
 
 Este projeto implementa um jogo da velha onde o jogador humano joga contra um computador com uma lógica de movimentos predefinida. O computador faz movimentos inteligentes, seguindo regras específicas para maximizar suas chances de vencer.
 
@@ -59,6 +59,6 @@ Este projeto está licenciado sob a MIT License.
 
 ## Autor
 
-Criado por Seu Felipe Lustosa Carvalho.
+Criado por Felipe Lustosa Carvalho.
 
 
