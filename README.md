@@ -1,7 +1,7 @@
 # Jogo da Velha Inteligente em JAVA
 
 Este projeto implementa um jogo da velha onde o jogador humano joga contra um computador com uma lógica de movimentos predefinida. O computador faz movimentos inteligentes, seguindo regras específicas para maximizar suas chances de vencer.
-
+ 
 ## Estrutura do Projeto
 
 O projeto está organizado da seguinte forma:
