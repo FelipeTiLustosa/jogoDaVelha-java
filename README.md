@@ -19,12 +19,12 @@ O projeto está organizado da seguinte forma:
 ## Regras do Jogo
 
 - **O computador sempre começa e joga como 'X'.**
-- **O computador segue estas regras para decidir seus movimentos:**
-  - **Movimento 1:** O computador escolhe um canto aleatoriamente. 
-  - **Movimento 2:** Se o jogador não ocupou o canto oposto, o computador o ocupa. Caso contrário, escolhe outro canto livre.
-  - **Movimento 3 em diante:** O computador verifica se pode vencer completando uma linha ou se precisa bloquear o jogador, priorizando esses movimentos. Se não houver necessidade, escolhe um canto livre ou outro espaço.
+- **O computador segue estas regras para decidir seus movimentos:** 
+  - **Movimento 1:** O computador escolhe um canto aleatoriamente.  
+  - **Movimento 2:** Se o jogador não ocupou o canto oposto, o computador o ocupa. Caso contrário, escolhe outro canto livre. 
+  - **Movimento 3 em diante:** O computador verifica se pode vencer completando uma linha ou se precisa bloquear o jogador, priorizando esses movimentos. Se não houver necessidade, escolhe um canto livre ou outro espaço. 
 
-## Funcionalidades
+## Funcionalidades 
 
 Abaixo estão listadas as funcionalidades do jogo, organizadas em uma tabela para melhor visualização:
 
